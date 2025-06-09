@@ -116,3 +116,9 @@ tar -xzvf example.tar.gz -C outdir
 
 
 #### 6、软连接
+
+```
+
+```
+
+测试
